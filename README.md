@@ -4,6 +4,7 @@ Telegram Voice-Chat Bot To Play Music From Various Sources In Your Group
 
 <img src="https://i.imgur.com/8S8NVy0.png" width="530" height="400">
 
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/AlphaEliasPY/test)
 
 # Support
 
